@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eatsure/static/css/main.cd29f5e2.css",
+    "main.js": "/eatsure/static/js/main.b6491bf4.js",
+    "static/js/787.9ae78795.chunk.js": "/eatsure/static/js/787.9ae78795.chunk.js",
+    "index.html": "/eatsure/index.html",
+    "main.cd29f5e2.css.map": "/eatsure/static/css/main.cd29f5e2.css.map",
+    "main.b6491bf4.js.map": "/eatsure/static/js/main.b6491bf4.js.map",
+    "787.9ae78795.chunk.js.map": "/eatsure/static/js/787.9ae78795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd29f5e2.css",
+    "static/js/main.b6491bf4.js"
+  ]
+}
